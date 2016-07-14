@@ -64,7 +64,6 @@ board.on('ready', function() {
 
     // Optionally, stop servos from sweeping
     servo1.stop();
-    servo2.stop();
   }
 
   function sweep() {
