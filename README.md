@@ -2,6 +2,10 @@
 
 This is the Norfolk.js motorized version of [Pawel's Sumobot-jr](https://github.com/makenai/sumobot-jr/blob/master/README.md) design that we put together for [NodeBots Day 2016](https://github.com/nodebots/nodebotsday). The main change was to the laser-cut side pieces to support gear motors (inspired by [Markus's sumobot](https://github.com/ghtomcat/sumobot)) and the laser-cut wheels have been replaced by rubber wheels. To make this beginner-friendly, we use a motor shield for wiring the motors to the arduino. However, the bot chassis design can support other motor drivers and wiring strategies.
 
+Want to make your own motorized sumobot? Here is the [parts list](https://github.com/norfolkjs/motorized-sumobot/blob/master/parts_list.md).
+
+We also have [printable instructions](https://github.com/norfolkjs/motorized-sumobot/blob/master/assembly_instructions.pdf) and an instructional video! (thanks [Trisha](https://github.com/aureately) and [Paul](https://github.com/paulchinjr))
+
 [![Instructional Video](https://img.youtube.com/vi/xHns3qxffYM/0.jpg)](https://www.youtube.com/watch?v=xHns3qxffYM)
 
 ## Getting Started
@@ -20,7 +24,7 @@ If you're using Windows, you'll also need to install the [Arduino IDE](https://w
   npm i
 ```
 
-#### Controlling Your Bot
+### Controlling Your Bot
 
 * Plug your Arduino into your computer's USB port
 * Flash your Arduino with the Firmata sketch:
