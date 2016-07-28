@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Norfolk.js Motorized Sumobot : :car: Norfolk.js motorized version of Makenai&#39;s Sumobot-jr :blue_car:">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Norfolk.js Motorized Sumobot</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/norfolkjs/motorized-sumobot">View on GitHub</a>
+
+          <h1 id="project_title">Norfolk.js Motorized Sumobot</h1>
+          <h2 id="project_tagline">:car: Norfolk.js motorized version of Makenai&#39;s Sumobot-jr :blue_car:</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/norfolkjs/motorized-sumobot/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/norfolkjs/motorized-sumobot/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a id="car-motorized-sumobot-blue_car" class="anchor" href="#car-motorized-sumobot-blue_car" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><g-emoji alias="car" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f697.png">🚗</g-emoji> Motorized Sumobot <g-emoji alias="blue_car" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f699.png">🚙</g-emoji>
+</h1>
+
+<p>This is the Norfolk.js motorized version of <a href="https://github.com/makenai/sumobot-jr/blob/master/README.md">Pawel's Sumobot-jr</a> design that we put together for <a href="https://github.com/nodebots/nodebotsday">NodeBots Day 2016</a>. The main change was to the laser-cut side pieces to support gear motors (inspired by <a href="https://github.com/ghtomcat/sumobot">Markus's sumobot</a>) and the laser-cut wheels have been replaced by rubber wheels. To make this beginner-friendly, we use a motor shield for wiring the motors to the arduino. However, the bot chassis design can support other motor drivers and wiring strategies.</p>
+
+<p>Want to make your own motorized sumobot? Here is the <a href="https://github.com/norfolkjs/motorized-sumobot/blob/master/parts_list.md">parts list</a>.</p>
+
+<p>We also have <a href="https://github.com/norfolkjs/motorized-sumobot/blob/master/assembly_instructions.pdf">printable instructions</a> and an instructional video! (thanks <a href="https://github.com/aureately">Trisha</a> and <a href="https://github.com/paulchinjr">Paul</a>)</p>
+
+<p><a href="https://www.youtube.com/watch?v=xHns3qxffYM"><img src="https://img.youtube.com/vi/xHns3qxffYM/0.jpg" alt="Instructional Video"></a></p>
+
+<h2>
+<a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Getting Started</h2>
+
+<h3>
+<a id="install-dependencies" class="anchor" href="#install-dependencies" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Install Dependencies</h3>
+
+<ul>
+<li><p><a href="https://git-scm.com/download">Git</a></p></li>
+<li><p><a href="https://nodejs.org/en/">Node 4</a></p></li>
+</ul>
+
+<p>If you're using Windows, you'll also need to install the <a href="https://www.arduino.cc/en/Main/Software">Arduino IDE</a></p>
+
+<pre><code>  git clone https://github.com/norfolkjs/motorized-sumobot.git
+  cd motorized-sumobot
+  npm i
+</code></pre>
+
+<h3>
+<a id="controlling-your-bot" class="anchor" href="#controlling-your-bot" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Controlling Your Bot</h3>
+
+<ul>
+<li>Plug your Arduino into your computer's USB port</li>
+<li>Flash your Arduino with the Firmata sketch:
+<code>npm run firmata-flash</code>
+</li>
+<li>Start the code that controls your bot!
+<code>npm start</code>
+</li>
+</ul>
+
+<h2>
+<a id="looking-for-more" class="anchor" href="#looking-for-more" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Looking for More?</h2>
+
+<ul>
+<li><a href="http://www.sumobotkit.com">The Original Pawel-Bot Sumobot-jr</a></li>
+<li><a href="https://github.com/EmergingTechnologyAdvisors/mbot-soccer">ETA's Node.js Soccerbot mBots</a></li>
+</ul>
+
+<h2>
+<a id="special-thanks" class="anchor" href="#special-thanks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Special Thanks</h2>
+
+<ul>
+<li>
+<g-emoji alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> <a href="https://github.com/makenai">@makenai</a> <g-emoji alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+</li>
+<li>
+<g-emoji alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> <a href="www.757makerspace.com">757 Makerspace</a> and <a href="https://github.com/beauturner">@beauturner</a> <g-emoji alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+</li>
+<li>
+<g-emoji alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> <a href="https://github.com/ghtomcat">@twtomcat</a> <g-emoji alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+</li>
+</ul>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Norfolk.js Motorized Sumobot maintained by <a href="https://github.com/norfolkjs">norfolkjs</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
