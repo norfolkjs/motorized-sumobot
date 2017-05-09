@@ -14,3 +14,10 @@
 * 4 4-40 X ⅜" nuts for motors
 * 1 [3-D printed wheel holder](https://github.com/makenai/sumobot-jr/blob/master/3d_print/BallCaster.stl)
 * 1 Wood Laser-cut Chassis
+
+### Optional Bluetooth Version
+
+* 1 [Lipo Battery](http://www.ebay.com/itm/2x-2S-7-4V-1000mAh-20C-LiPo-RC-Battery-JST-Plug-for-RC-Helicopter-Airplane-Hobby-/252572685263)
+* 1 [Lipo Battery charger](https://www.amazon.com/gp/product/B00CR9RJO2)
+* 1 [HC-06 Bluetooth Module](https://www.amazon.com/KEDSUM-Arduino-Bluetooth-Wireless-Transceiver/dp/B0093XAV4U)
+* 1 [PS3 controller](https://www.amazon.com/XFUNY-Controller-PlayStation-Black-White-Camouflage/dp/B00RMZUHNQ)
