@@ -29,7 +29,7 @@ If you're using Windows, you'll also need to install the [Arduino IDE](https://w
 
 * Plug your Arduino into your computer's USB port
 * Flash your Arduino with the Firmata sketch:
-  `npm run flash-firmata`
+  `firmata-party uno --debug`
 * Start the code that controls your bot!
   `npm start`
 
