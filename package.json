@@ -5,7 +5,7 @@
   "main": "motor-sumo.js",
   "scripts": {
     "start": "node motor-sumo.js",
-    "flash-firmata": "firmata-party uno"
+    "flash-firmata": "firmata-party uno --debug"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,6 @@
     "keypress": "^0.2.1"
   },
   "devDependencies": {
-    "firmata-party": "^1.3.2",
     "eslint": "^2.5.1"
   },
   "keywords": [
