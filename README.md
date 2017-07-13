@@ -22,6 +22,7 @@ If you're using Windows, you'll also need to install the [Arduino IDE](https://w
   git clone https://github.com/norfolkjs/motorized-sumobot.git
   cd motorized-sumobot
   npm i
+  npm i -g firmata-party
 ```
 
 ### Controlling Your Bot
