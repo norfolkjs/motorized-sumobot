@@ -5,7 +5,6 @@
   "main": "motor-sumo.js",
   "scripts": {
     "start": "node motor-sumo.js",
-    "flash-firmata": "firmata-party uno --debug"
   },
   "repository": {
     "type": "git",
