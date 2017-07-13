@@ -14,7 +14,7 @@ We also have [printable instructions](https://github.com/norfolkjs/motorized-sum
 
 * [Git](https://git-scm.com/download)
 
-* [Node 4](https://nodejs.org/en/)
+* [Node 6](https://nodejs.org/en/)
 
 If you're using Windows, you'll also need to install the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
@@ -28,7 +28,7 @@ If you're using Windows, you'll also need to install the [Arduino IDE](https://w
 
 * Plug your Arduino into your computer's USB port
 * Flash your Arduino with the Firmata sketch:
-  `npm run firmata-flash`
+  `npm run flash-firmata`
 * Start the code that controls your bot!
   `npm start`
 
