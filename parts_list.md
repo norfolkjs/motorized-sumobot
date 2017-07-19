@@ -19,5 +19,5 @@
 
 * 1 [Lipo Battery](http://www.ebay.com/itm/2x-2S-7-4V-1000mAh-20C-LiPo-RC-Battery-JST-Plug-for-RC-Helicopter-Airplane-Hobby-/252572685263)
 * 1 [Lipo Battery charger](https://www.amazon.com/gp/product/B00CR9RJO2)
-* 1 [HC-06 Bluetooth Module](https://www.amazon.com/KEDSUM-Arduino-Bluetooth-Wireless-Transceiver/dp/B0093XAV4U)
+* 1 [HC-06 Bluetooth Module](https://www.amazon.com/DSD-TECH-Wireless-Bluetooth-Transceiver/dp/B01FCQZ8VW)
 * 1 [PS3 controller](https://www.amazon.com/XFUNY-Controller-PlayStation-Black-White-Camouflage/dp/B00RMZUHNQ)
