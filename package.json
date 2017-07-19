@@ -4,7 +4,7 @@
   "description": "Example driving code for the Motorized Sumobot",
   "main": "motor-sumo.js",
   "scripts": {
-    "start": "node motor-sumo.js",
+    "start": "node motor-sumo.js"
   },
   "repository": {
     "type": "git",
