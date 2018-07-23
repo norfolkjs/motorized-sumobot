@@ -38,6 +38,9 @@ If you're using Windows, you'll also need to install the [Arduino IDE](https://w
 * [The Original Pawel-Bot Sumobot-jr](http://www.sumobotkit.com)
 * [ETA's Node.js Soccerbot mBots](https://github.com/EmergingTechnologyAdvisors/mbot-soccer)
 
+## NodeBots Day Norfolk
+* [NodeBots Day Celebration](http://www.norfolkjs.org/nodebots/index.html)
+
 ## License
 
 [Creative Commons - Attribution - ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
