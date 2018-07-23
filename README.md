@@ -4,7 +4,7 @@ This is the Norfolk.js motorized version of [Pawel's Sumobot-jr](https://github.
 
 Want to make your own motorized sumobot? Here is the [parts list](https://github.com/norfolkjs/motorized-sumobot/blob/master/parts_list.md).
 
-We also have [printable instructions](https://github.com/norfolkjs/motorized-sumobot/blob/master/assembly_instructions.pdf) and an instructional video! (thanks [Trisha](https://github.com/aureately) and [Paul](https://github.com/paulchinjr))
+We also have [printable instructions](https://github.com/norfolkjs/motorized-sumobot/blob/master/assembly-instructions.pdf) and an instructional video! (thanks [Trisha](https://github.com/aureately) and [Paul](https://github.com/paulchinjr))
 
 [![Instructional Video](https://img.youtube.com/vi/xHns3qxffYM/0.jpg)](https://www.youtube.com/watch?v=xHns3qxffYM)
 
