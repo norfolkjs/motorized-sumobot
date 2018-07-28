@@ -11,7 +11,7 @@
     "url": "git+https://github.com/norfolkjs/motorized-sumobot.git"
   },
   "dependencies": {
-    "johnny-five": "^0.9.58",
+    "johnny-five": "^0.15.0",
     "keypress": "^0.2.1"
   },
   "devDependencies": {
