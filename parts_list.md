@@ -1,7 +1,7 @@
 ## Norfolk.js Motorized Sumobot Suggested Parts List
 
 * 1 [Arduino Uno](https://www.amazon.com/gp/product/B0168B39N4/)
-* 1 [Arduino Uno Motor Shield](http://amzn.com/B00813HBBO)
+* 1 [Arduino Uno Motor Shield](https://www.sainsmart.com/products/l293d-motor-drive-shield-for-arduino)
 * 2 [Motors](https://www.sparkfun.com/products/13302)
 * 2 [Wheels](https://www.sparkfun.com/products/13259)
 * 1 [9-V Battery Clip](http://amzn.com/B00NIOQN9M)
