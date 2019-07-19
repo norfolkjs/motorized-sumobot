@@ -13,7 +13,7 @@
 * 4 4-40 X 1” screws for motors
 * 4 4-40 X ⅜" nuts for motors
 * 1 [3-D printed wheel holder](https://github.com/makenai/sumobot-jr/blob/master/3d_print/BallCaster.stl)
-* 1 Wood Laser-cut Chassis
+* 1 Wood Laser-cut Chassis - You can order a custom cut from www.ponoko.com and upload motorized-sumobot.svg to the service. Choose Birch Plywood 0.125in thickness for material type. 
 
 ### Optional Bluetooth Version
 
