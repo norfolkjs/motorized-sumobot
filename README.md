@@ -1,6 +1,6 @@
 # :car: Motorized Sumobot :blue_car:
 
-This is the Norfolk.js motorized version of [Pawel's Sumobot-jr](https://github.com/makenai/sumobot-jr/blob/master/README.md) design that we put together for [NodeBots Day 2016](https://github.com/nodebots/nodebotsday). The main change was to the laser-cut side pieces to support gear motors (inspired by [Markus's sumobot](https://github.com/ghtomcat/sumobot)) and the laser-cut wheels have been replaced by rubber wheels. To make this beginner-friendly, we use a motor shield for wiring the motors to the arduino. However, the bot chassis design can support other motor drivers and wiring strategies.
+This is the Norfolk.js motorized version of [Pawel's Sumobot-jr](https://github.com/makenai/sumobot-jr) design that we put together for [Norfolk NodeBots Day](http://www.norfolkjs.org/nodebots/index.html). The main change was to the laser-cut side pieces to support gear motors (inspired by [Markus's sumobot](https://github.com/ghtomcat/sumobot)) and the laser-cut wheels have been replaced by rubber wheels. To make this beginner-friendly, we use a motor shield for wiring the motors to the arduino. However, the bot chassis design can support other motor drivers and wiring strategies.
 
 Want to make your own motorized sumobot? Here is the [parts list](https://github.com/norfolkjs/motorized-sumobot/blob/master/parts_list.md).
 
@@ -13,7 +13,6 @@ We also have [printable instructions](https://github.com/norfolkjs/motorized-sum
 ### Install Dependencies
 
 * [Git](https://git-scm.com/download)
-
 * [Node 6](https://nodejs.org/en/)
 
 If you're using Windows, you'll also need to install the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
@@ -35,8 +34,8 @@ If you're using Windows, you'll also need to install the [Arduino IDE](https://w
 
 ## Looking for More?
 
-* [The Original Pawel-Bot Sumobot-jr](http://www.sumobotkit.com)
-* [ETA's Node.js Soccerbot mBots](https://github.com/EmergingTechnologyAdvisors/mbot-soccer)
+* [The Original Pawel-Bot Sumobot-jr](https://github.com/makenai/sumobot-jr)
+* [ETA's Node.js Soccerbot mBots](https://github.com/norfolkjs/mbot-soccer)
 
 ## NodeBots Day Norfolk
 * [NodeBots Day Celebration](http://www.norfolkjs.org/nodebots/index.html)
